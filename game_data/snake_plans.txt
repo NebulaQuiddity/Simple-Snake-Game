@@ -1,0 +1,22 @@
+logic flow
+
+start screen
+
+start the game
+
+player starts in the middle
+
+they press a button to start moving
+
+once they do, a taco or something appears on the screen
+
+they can move with the arrow keys to eat the taco
+
+
+w = 40
+h = 25
+
+
+(None)
+
+(piece)
